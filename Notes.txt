@@ -1,0 +1,8 @@
+What is HttpContext?
+HttpContext is a Class which hold both request and response Object.
+HttpContext will transfer data from web server to web client / web client to web server
+
+HttpContext Class will be part of .Net Core WebApplication Class. 
+While creating an object WebApplication, we can easily detects the Request and Response
+object with the help of HttpContext Class.
+
