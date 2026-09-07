@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/EStoreAdmin/">
+    <Project Path="EStoreAdmin/EStoreAdminModule/EStoreAdminModule.csproj" />
+  </Folder>
+</Solution>
