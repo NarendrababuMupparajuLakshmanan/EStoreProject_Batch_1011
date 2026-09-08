@@ -6,3 +6,44 @@ HttpContext Class will be part of .Net Core WebApplication Class.
 While creating an object WebApplication, we can easily detects the Request and Response
 object with the help of HttpContext Class.
 
+What is Middleware and its Implementation?
+====================================
+Middle ware is a concept to implement a logic basic on data.
+we are receiving data with the help of HttpContext Class.
+
+To execute middleware, we will use Run() method.
+
+app.Run() --> This method will be used for executing the Final Middleware also called as 
+terminal Middleware. This Method will terminate the Middleware chain.
+
+app.Use() --> This method will be used for executing the current Middleware and make a call
+of subsequent middleware with the help of RequestDelegate Object
+
+
+2nd Approach:
+I want to build a Middleware with the help for Normal Class is it Possible
+--> Yes, it is possible with the help of implementing IMiddleware Interface.
+
+3rd Approach:
+
+Middleware Class Template to implement Middleware chaining.
+
+
+Tomorrow we are discuss on Kernel Server and Reverse Proxy Server.
+============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

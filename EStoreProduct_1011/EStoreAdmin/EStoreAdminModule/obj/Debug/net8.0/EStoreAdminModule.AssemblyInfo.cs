@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EStoreAdminModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee7809ff2e2444fd13d124fad4ed9b218b10d94e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d87e47616acb870ef51e4a433b9acbaba700f91")]
 [assembly: System.Reflection.AssemblyProductAttribute("EStoreAdminModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EStoreAdminModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
